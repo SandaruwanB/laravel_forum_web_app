@@ -1,4 +1,4 @@
-name: Laravel
+name: Forum Web Application
 
 on:
   push:
